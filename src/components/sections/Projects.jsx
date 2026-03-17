@@ -6,7 +6,7 @@ import jokiTugas from "../../assets/joki-tugas.jpg";
 
 const Projects = () => {
   return (
-    <section id="projects" className="px-8 py-20 bg-[#0c0c0c]">
+    <section id="projects" className="px-4 md:px-8 py-20 bg-[#0c0c0c] overflow-hidden">
       <h2 className="text-blue-500 font-bold mb-12 tracking-widest text-sm text-center md:text-left">
         FEATURED PROJECTS
       </h2>
