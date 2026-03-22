@@ -3,7 +3,7 @@ import playingGod from "../../assets/playing-god.svg";
 import clockin from "../../assets/clockin.png";
 import dashboard from "../../assets/dashboard.png";
 import jokiTugas from "../../assets/joki-tugas.jpg";
-
+4
 const Projects = () => {
   return (
     <section id="projects" className="px-4 md:px-8 py-20 bg-[#0c0c0c] overflow-hidden">
@@ -113,10 +113,7 @@ const Projects = () => {
               UI/UX Design
             </span>
             <span className="px-3 py-1 bg-blue-500/10 text-blue-400 text-xs rounded-full border border-blue-500/20">
-              Web Programming
-            </span>
-            <span className="px-3 py-1 bg-blue-500/10 text-blue-400 text-xs rounded-full border border-blue-500/20">
-              Mobile Programming
+              Web/Mobile Programming
             </span>
           </div>
         </div>
